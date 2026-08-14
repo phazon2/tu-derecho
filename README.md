@@ -1,6 +1,19 @@
 # Tu Derecho
 
-**Tu contrato dice más de lo que te dijeron.**
+**La Dirección del Trabajo recibe tu reclamo. Casi ninguno llega bien formado.**
+
+## La afirmación estructural
+
+**Un reclamo laboral se pierde por estar mal formado, no por no tener razón. Tu Derecho produce el escrito con la causal invocada, el artículo aplicable y el monto calculado, en la forma que un fiscalizador puede tramitar sin devolverlo.**
+
+La barrera es regulatoria: el fiscalizador solo puede actuar sobre lo que está correctamente invocado, y quien más necesita reclamar es justamente quien no puede pagar a alguien que sepa invocarlo.
+
+**Para quién es la salida:** el fiscalizador de la Dirección del Trabajo que tramita tu caso. No para quien sube el documento. Ese es el
+movimiento: la categoría es la misma que la de otros, el destinatario no.
+
+## Competencia, nombrada
+
+LegalGo, Lexgo y los estudios de abogados laborales cobran desde 200.000 y trabajan por porcentaje del resultado, así que ningún caso chico les conviene. Ese es exactamente el caso que atendemos, y podemos derivarles los grandes.
 
 Sube tu contrato, finiquito o boleta en disputa y recibe, en simple, qué dice la ley chilena, qué puedes exigir y una carta lista para enviar.
 

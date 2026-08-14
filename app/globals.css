@@ -118,3 +118,5 @@ h1 { font-size: 1.95rem; }
 .drill .enunciado { font-family: Georgia, serif; }
 .dia { padding: 8px 0; }
 .diag-item { padding: 8px 0; }
+
+.claim { color: var(--text); font-size: 0.95rem; line-height: 1.45; margin-bottom: 14px; padding: 12px 14px; background: rgba(255,255,255,0.03); border-left: 3px solid var(--accent-2); border-radius: var(--radius); }
